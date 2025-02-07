@@ -21,6 +21,9 @@ The built-in help for Packet Tracer provides an in-depth look at many topics. It
 - [ptremote](https://github.com/cnkang/ptremote) - Setup Packet Tracer on a server and provide users with remote access to the GUI.
 - [pka2xml](https://github.com/mircodz/pka2xml) - Convert Packet Tracer pka and pkt files into XML and vice versa.
 
+## Other Resources
+- [ptfakegoogle](https://github.com/kimmknight/ptfakegoogle) - A fake Google search page that can easily be added to your activities/labs.
+
 ## Labs
 - [CCNAv7 labs](https://github.com/GibJaf/CCNAv7) - Contains all the CCNAv7 packet tracer and lab activities in the course (mostly PKA, some PKT).
 - [des1-gner Cisco Packet Tracer labs](https://github.com/des1-gner/Cisco-Packet-Tracer) - A huge selection of PKA and PKT lab files.
