@@ -13,6 +13,7 @@ The built-in help for Packet Tracer provides an in-depth look at many topics. It
 ## Extensions
 
 - [PTAlignToGrid](https://github.com/kimmknight/PTAlignToGrid) - Neatens logical workspaces by aligning items to grid.
+- [PTAuthorTools]() - Adds some tools/features that are useful when developing lab activities.
 - [PTBuilder](https://github.com/kimmknight/PTBuilder) - Provides simple JavaScript functions and a code editor to automate the creation of networks.
 
 ## Tools
