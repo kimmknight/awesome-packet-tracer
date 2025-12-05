@@ -21,7 +21,7 @@ The built-in help for Packet Tracer provides an in-depth look at many topics. It
 - [PTBridge](https://www.packettracernetwork.com/features/real-network-connection.html) - Bridge Packet Tracer networks to real networks. GitHub repo [here](https://github.com/andiwand/ptbridge).
 - [ptremote](https://github.com/cnkang/ptremote) - Setup Packet Tracer on a server and provide users with remote access to the GUI.
 - [pka2xml](https://github.com/mircodz/pka2xml) - Convert Packet Tracer pka and pkt files into XML and vice versa.
-- [PacketTracerRecovery](https://github.com/ferib/PacketTracerRecovery - Password Recovery tool for pka activity files in PacketTracer7
+- [PacketTracerRecovery](https://github.com/ferib/PacketTracerRecovery) - Password Recovery tool for pka activity files in PacketTracer7
 
 ## Other Resources
 - [ptfakegoogle](https://github.com/kimmknight/ptfakegoogle) - A fake Google search page that can easily be added to your activities/labs.
