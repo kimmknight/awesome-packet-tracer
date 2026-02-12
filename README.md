@@ -15,6 +15,7 @@ The built-in help for Packet Tracer provides an in-depth look at many topics. It
 - [PTAlignToGrid](https://github.com/kimmknight/PTAlignToGrid) - Neatens logical workspaces by aligning items to grid.
 - [PTAuthorTools](https://github.com/kimmknight/PTAuthorTools) - Adds some tools/features that are useful when developing lab activities.
 - [PTBuilder](https://github.com/kimmknight/PTBuilder) - Provides simple JavaScript functions and a code editor to automate the creation of networks.
+- [PTBulkConfig](https://github.com/kimmknight/PTBulkConfig) - Allows you to send IOS config commands to multiple devices at once.
 
 ## Tools
 
