@@ -19,17 +19,19 @@ The built-in help for Packet Tracer provides an in-depth look at many topics. It
 
 ## Tools
 
+- [PacketTracerRecovery](https://github.com/ferib/PacketTracerRecovery) - Password Recovery tool for pka activity files in PacketTracer7
+- [pka2xml](https://github.com/mircodz/pka2xml) - Convert Packet Tracer pka and pkt files into XML and vice versa.
 - [PTBridge](https://www.packettracernetwork.com/features/real-network-connection.html) - Bridge Packet Tracer networks to real networks. GitHub repo [here](https://github.com/andiwand/ptbridge).
 - [ptremote](https://github.com/cnkang/ptremote) - Setup Packet Tracer on a server and provide users with remote access to the GUI.
-- [pka2xml](https://github.com/mircodz/pka2xml) - Convert Packet Tracer pka and pkt files into XML and vice versa.
-- [PacketTracerRecovery](https://github.com/ferib/PacketTracerRecovery) - Password Recovery tool for pka activity files in PacketTracer7
 
 ## Other Resources
+
 - [ptfakegoogle](https://github.com/kimmknight/ptfakegoogle) - A fake Google search page that can easily be added to your activities/labs.
 
 ## Labs
+
 - [CCNAv7 labs](https://github.com/GibJaf/CCNAv7) - Contains all the CCNAv7 packet tracer and lab activities in the course (mostly PKA, some PKT).
-- [yeezysmem PT-Labs](https://github.com/yeezysmem/PT-Labs) - 350+ PKA activity files.
 - [des1-gner Cisco Packet Tracer labs](https://github.com/des1-gner/Cisco-Packet-Tracer) - A huge selection of PKA and PKT lab files.
 - [PacketTracerNetwork.com](https://www.packettracernetwork.com/labs/packettracerlabs.html)  - About 20 PKA labs covering basic routing/switching, VPN, ASA devices, and WLAN w/ RADIUS.
 - [Practical Networking Packet Tracer Labs](https://www.practicalnetworking.net/stand-alone/packet-tracer-labs/) - Provides video tutorials to go with a number of lab activities supplied in PKT format.
+- [yeezysmem PT-Labs](https://github.com/yeezysmem/PT-Labs) - 350+ PKA activity files.
