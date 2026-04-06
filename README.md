@@ -6,7 +6,7 @@
 
 The built-in help for Packet Tracer provides an in-depth look at many topics. It can be accessed from Packet Tracer via **Help** > **Contents**.
 
-The built-in help is really just a static website of HTML files built into the AppImage contained in the `.deb` file, therefore it is possible to convert to other formats (e.g. PDF: [ready-to-download built PDF](https://codeberg.org/jipmelon/t/raw/branch/main/Cisco_Packet_Tracer_help.pdf) / [build instructions from `.deb` file](https://gist.github.com/SuperCowProducts/c548e6cb79ffd88840c01ec641584a41)
+The built-in help is really just a static website of HTML files built into the AppImage contained in the `.deb` file, therefore it is possible to convert to other formats (e.g. PDF: [ready-to-download built PDF](https://codeberg.org/jipmelon/t/raw/branch/main/Cisco_Packet_Tracer_help.pdf) / [build instructions starting with `.deb` file](https://gist.github.com/SuperCowProducts/c548e6cb79ffd88840c01ec641584a41)
 
 ## Scripting
 
