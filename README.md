@@ -14,6 +14,7 @@ The built-in help is really just a static website of HTML files built into the A
 
 ## Extensions
 
+- [cisco-pt-mcp](https://muhammadbalawal.github.io/cisco-pt-mcp/) - Let AI clients control a running Cisco Packet Tracer instance. Open source. GitHub repo [here](https://github.com/muhammadbalawal/cisco-pt-mcp).
 - [PTAlignToGrid](https://github.com/kimmknight/PTAlignToGrid) - Neatens logical workspaces by aligning items to grid.
 - [PTAuthorTools](https://github.com/kimmknight/PTAuthorTools) - Adds some tools/features that are useful when developing lab activities.
 - [PTBuilder](https://github.com/kimmknight/PTBuilder) - Provides simple JavaScript functions and a code editor to automate the creation of networks.
